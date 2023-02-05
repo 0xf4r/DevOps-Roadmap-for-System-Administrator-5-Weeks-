@@ -1,0 +1,48 @@
+Here is a 5-week study roadmap for a system administrator who wants to transition to a DevOps role:
+
+Week 1:
+
+    Day 1: Start with an overview of DevOps and its principles. Read the Phoenix Project and learn about the principles of DevOps.
+    Day 2: Study Git and version control systems. Learn how to use Git for version control.
+    Day 3: Study Agile methodologies and learn about Scrum and Kanban.
+    Day 4: Study the basics of cloud computing. Learn about the different types of cloud computing and the different cloud providers.
+    Day 5: Study the basics of virtualization. Learn about different virtualization technologies and hypervisors.
+    Day 6: Study the basics of Linux. Learn the basic commands and start working with a Linux distribution.
+    Day 7: Revise the topics covered in the previous 6 days.
+
+Week 2:
+
+    Day 1: Study the basics of networking. Learn about different network protocols and technologies.
+    Day 2: Study the basics of shell scripting. Learn how to automate tasks using shell scripts.
+    Day 3: Study the basics of cloud security. Learn about the different security best practices for cloud computing.
+    Day 4: Study the basics of containerization and learn about Docker.
+    Day 5: Study the basics of microservices and learn about the different microservices architectures.
+    Day 6: Study the basics of continuous integration and continuous deployment (CI/CD). Learn about the different CI/CD tools and processes.
+    Day 7: Revise the topics covered in the previous 6 days.
+
+Week 3:
+
+    Day 1: Study the basics of infrastructure as code and configuration management. Learn about Terraform and Ansible.
+    Day 2: Study the basics of monitoring and logging. Learn about tools like Nagios, Zabbix, Logstash, and Kibana.
+    Day 3: Study the basics of database management and learn about different database management systems.
+    Day 4: Study the basics of network security. Learn about the different network security best practices.
+    Day 5: Study the basics of cloud automation. Learn about the different cloud automation tools and technologies.
+    Day 6: Study the basics of Linux system administration. Learn about the different Linux system administration tasks and tools.
+    Day 7: Revise the topics covered in the previous 6 days.
+
+Week 4:
+
+    Day 1: Study the basics of DevOps tools and processes. Learn about different DevOps tools and processes and how they are used in DevOps pipelines.
+    Day 2: Study the basics of cloud cost optimization. Learn about the different cost optimization techniques for cloud computing.
+    Day 3: Study the basics of performance tuning and optimization. Learn about different performance tuning techniques for different systems.
+    Day 4: Study the basics of cloud disaster recovery and business continuity. Learn about different disaster recovery and business continuity techniques for cloud computing.
+    Day 5: Study the basics of cloud migrations. Learn about different cloud migration techniques and tools.
+    Day 6: Study the basics of DevOps security. Learn about the different security best practices for DevOps.
+    Day 7: Revise the topics covered in the previous 6 days.
+
+Week 5:
+
+    Day 1: Start with a review of the previous 4 weeks and set goals for the rest of the week.
+    Day 2: Study and practice the principles of Continuous Integration and Continuous Deployment (CI/CD). Read about tools like Jenkins, TravisCI, CircleCI, etc.
+    Day 3: Study containerization and container orchestration. Learn about Docker and Kubernetes.
+    Day 4-7: Start building a project.
